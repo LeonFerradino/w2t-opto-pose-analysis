@@ -1,4 +1,4 @@
-# Optogenetic and Video-Based Dissection of Cortical Contributions to a Learned Active Touch Task in Mice
+# Investigation of Cortical Contributions to Goal-Directed Tactile Behavior
 
 Analysis code for the B.Sc. thesis *"Optogenetic and Video-Based Dissection of
 Motor, Sensory, and Prefrontal Cortical Contributions to Learned Active Touch
