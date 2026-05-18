@@ -8,11 +8,6 @@ This repository contains the scripts used to produce the behavioral and
 video-based pose figures of the thesis. The thesis PDF is included in the
 repository.
 
-> **Note on neural validation (Section 4.2):** The neural-validation figures
-> are based on analysis scripts written by **Jelte De Vries**. That code is
-> **not included in this repository**, as it is his work; only the behavioral
-> and pose analysis code is provided here.
-
 ---
 
 ## Overview
@@ -136,8 +131,3 @@ upstream of this repository; the scripts here operate on already-tracked pose
 data.
 
 ---
-
-## Author
-
-B.Sc. thesis project. Neural-validation analysis (Section 4.2) is based on code
-by Jelte De Vries and is not part of this repository.
