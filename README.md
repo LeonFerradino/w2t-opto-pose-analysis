@@ -73,6 +73,3 @@ scripts expect locally available Bpod session files and tracked pose data, with
 paths defined in the *_config.py modules. Pose tracking (DLC / SLEAP) is
 upstream of this repository; the scripts here operate on already-tracked pose
 data.
-
-Author
-B.Sc. thesis project.
